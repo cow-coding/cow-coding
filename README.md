@@ -23,8 +23,8 @@ Inha Univ. Data Analysis (CSE with Statistics) (2020 ~ )
 ![ELK Stack](https://img.shields.io/badge/ELK-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-005571?style=plastic&logo=elastic%20stack&logoColor=white)
 
 ### Project / Supporters
-| No 	|        Date       	|        Contents        	|  Organization 	|
-|:--:	|:-----------------:	|:----------------------:	|:-------------:	|
-|  1 	| 2020.08 ~ 2020.10 	|        [Medipush](https://github.com/Medipush)        	| 과학기술정보통신부(MSIT)  	|
-|  2 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	|
-|  3 	| 2021.01 ~ 2021.01 	| [ComeHere](https://github.com/7Princesses/ComeHere) 	| Inha University 	|
+| No 	|        Date       	|        Contents        	|  Organization 	|  Type 	|
+|:--:	|:-----------------:	|:----------------------:	|:-------------:	|:-------------:	|
+|  1 	| 2020.08 ~ 2020.10 	|        [Medipush](https://github.com/Medipush)        	| 과학기술정보통신부(MSIT)  	| Project  	|
+|  2 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	| Suppoters  	|
+|  3 	| 2021.01 ~ 2021.01 	| [ComeHere](https://github.com/7Princesses/ComeHere) 	| Inha University 	| Project  	|
