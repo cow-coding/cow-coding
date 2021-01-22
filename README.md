@@ -27,3 +27,4 @@ Inha Univ. Data Analysis (CSE with Statistics) (2020 ~ )
 |:--:	|:-----------------:	|:----------------------:	|:-------------:	|
 |  1 	| 2020.08 ~ 2020.10 	|        [Medipush](https://github.com/Medipush)        	| 과학기술정보통신부(MSIT)  	|
 |  2 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	|
+|  3 	| 2021.01 ~ 2021.01 	| [ComeHere](https://github.com/7Princesses/ComeHere) 	| Inha University 	|
