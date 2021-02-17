@@ -3,7 +3,7 @@
 [![cow-coding's github stats](https://github-readme-stats.vercel.app/api?username=cow-coding)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cow-coding&exclude_repo=cow-coding.github.io&hide=Jupyter%20Notebook&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile
-### Education
+### Degree
 Inha Univ. Computer Science Engineering (2019 ~ )  
 Inha Univ. Data Analysis (CSE with Statistics) (2020 ~ )
 
