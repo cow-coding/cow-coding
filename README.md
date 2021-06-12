@@ -25,7 +25,7 @@ Inha Univ. Data Analysis (CSE with Statistics) (2020 ~ )
 |:--:	|:-----------------:	|:----------------------:	|:-------------:	|:-------------:	|:-------------:	|
 |  1 	| 2020.08 ~ 2020.10 	|        [Medipush](https://github.com/Medipush)        	| 과학기술정보통신부(MSIT)  	| Project  	| -  	|
 |  2 	| 2021.01 ~ 2021.01 	| [여기붙어(ComeHere)](https://github.com/cow-coding/ComeHere.git) 	| Inha University 	| Project  	| -  	|
-|  3 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	| Suppoters  	| NA  	|
-|  4 	| 2021.02 ~ 2021.02 	| [InhaCabinet](https://github.com/cow-coding/Cabinet-Project)	| - 	| Project  	| NA  	|
+|  3 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	| Suppoters  	| N/A  	|
+|  4 	| 2021.02 ~ 2021.02 	| [InhaCabinet](https://github.com/cow-coding/Cabinet-Project)	| - 	| Project  	| N/A  	|
 |  5 	| 2021.05 ~ 2021.06 	| CLOVA AI RUSH - 1R	| NAVER 	| Competition  	| 13rd  	|
 |  6 	| 2021.06 ~ 2021.07 	| CLOVA AI RUSH - 2R	| NAVER 	| Competition  	| -ing  	|
