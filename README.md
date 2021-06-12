@@ -9,8 +9,8 @@ Inha Univ. Data Analysis (CSE with Statistics) (2020 ~ )
 
 ### :snowflake: Languages
 
-#### :chart_with_upwards_trend: Data Science
-![PYTHON](https://img.shields.io/badge/PYTHON%2068%25-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3776AB?style=plastic&logo=Python&logoColor=white) ![R](https://img.shields.io/badge/R%2040%25-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-276DC3?style=plastic&logo=R&logoColor=white)
+#### :chart_with_upwards_trend: Data Science & ML
+![PYTHON](https://img.shields.io/badge/PYTHON%2068%25-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3776AB?style=plastic&logo=Python&logoColor=white) ![R](https://img.shields.io/badge/R%2040%25-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-276DC3?style=plastic&logo=R&logoColor=white) ![TF](https://img.shields.io/badge/TensorFlow%2030%25-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![torch](https://img.shields.io/badge/Pytorch%2027%25-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 
 #### :coffee: Programming & PS
 ![C++](https://img.shields.io/badge/C++%2085%25-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-00897B?style=plastic&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA%2065%25-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-E37400?style=plastic&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/Go%2020%25-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-00ADD8?style=plastic&logo=Go&logoColor=white)  
@@ -27,4 +27,4 @@ Inha Univ. Data Analysis (CSE with Statistics) (2020 ~ )
 |  2 	| 2021.01 ~ 2021.01 	| [여기붙어(ComeHere)](https://github.com/cow-coding/ComeHere.git) 	| Inha University 	| Project  	|
 |  3 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	| Suppoters  	|
 |  4 	| 2021.02 ~ 2021.02 	| [InhaCabinet](https://github.com/cow-coding/Cabinet-Project)	| - 	| Project  	|
-|  5 	| 2021.05 ~ 2021.06 	| CLOVA AI RUSH	| NAVER 	| Competition  	|
+|  5 	| 2021.05 ~ 2021.07 	| CLOVA AI RUSH	| NAVER 	| Competition  	|
