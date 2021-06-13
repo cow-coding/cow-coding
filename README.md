@@ -4,8 +4,9 @@
 
 ## Profile
 ### Degree
-Inha Univ. Computer Science Engineering (2019 ~ )  
-Inha Univ. Information Analysis (Interdisciplinary major with Statistics) (2020 ~ )
+- Inha Univ Undergraduated
+  - Inha Univ. Computer Science Engineering (2019 ~ )  
+  - Inha Univ. Information Analysis (Interdisciplinary major with Statistics) (2020 ~ )
 
 ### :snowflake: Languages
 
