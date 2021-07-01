@@ -30,4 +30,4 @@
 |  3 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	| Suppoters  	| N/A  	|
 |  4 	| 2021.02 ~ 2021.02 	| [InhaCabinet](https://github.com/cow-coding/Cabinet-Project)	| - 	| Project  	| N/A  	|
 |  5 	| 2021.05 ~ 2021.06 	| CLOVA AI RUSH - 1R	| NAVER 	| Competition  	| 13rd  	|
-|  6 	| 2021.06 ~ 2021.07 	| CLOVA AI RUSH - 2R	| NAVER 	| Competition  	| -ing  	|
+|  6 	| 2021.06 ~ 2021.07 	| CLOVA AI RUSH - 2R	| NAVER 	| Competition  	| - 	|
