@@ -29,6 +29,6 @@
 |  2 	| 2021.01 ~ 2021.01 	| [여기붙어(ComeHere)](https://github.com/cow-coding/ComeHere.git) 	| Inha University 	| Project  	| -  	|
 |  3 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	| Suppoters  	| N/A  	|
 |  4 	| 2021.02 ~ 2021.02 	| [InhaCabinet](https://github.com/cow-coding/Cabinet-Project)	| - 	| Project  	| N/A  	|
-|  5 	| 2021.05 ~ 2021.06 	| CLOVA AI RUSH - 1R	| NAVER 	| Competition  	| 13rd  	|
-|  6 	| 2021.06 ~ 2021.07 	| CLOVA AI RUSH - 2R	| NAVER 	| Competition  	| - 	|
+|  5 	| 2021.05 ~ 2021.06 	| [CLOVA AI RUSH](https://campaign.naver.com/clova_airush/) - 1R	| NAVER 	| Competition  	| 13rd  	|
+|  6 	| 2021.06 ~ 2021.07 	| [CLOVA AI RUSH](https://campaign.naver.com/clova_airush/) - 2R	| NAVER 	| Competition  	| - 	|
 |  7 	| 2021.03 ~ 2021.06 	| [알.쓸.선.잡 (알아두면 쓸모있는 선거 잡학사전)](https://github.com/ElectionInfo/electionInfo_server)	| Inha Univ - DataBase class 	| School Project  	| N/A 	|
