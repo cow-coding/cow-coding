@@ -10,7 +10,7 @@
 
 ### :snowflake: Languages
 
-#### :chart_with_upwards_trend: Data Science & ML
+#### :chart_with_upwards_trend: Data Science/Engineering & ML
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=Python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white)   
 ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![torch](https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 
