@@ -15,7 +15,7 @@
 ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![torch](https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 
 #### :coffee: Programming & PS
-![C++](https://img.shields.io/badge/C++-00897B?style=plastic&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA-E37400?style=plastic&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00897B?style=plastic&logo=c%2B%2B&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=Python&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=white)  
 
 #### :computer: Back-End
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=plastic&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)  
