@@ -36,4 +36,4 @@
 |  5 	| 2021.05 ~ 2021.06 	| [CLOVA AI RUSH](https://campaign.naver.com/clova_airush/) - 1R	| NAVER 	| Competition  	| 13rd  	|
 |  6 	| 2021.06 ~ 2021.07 	| [CLOVA AI RUSH](https://campaign.naver.com/clova_airush/) - 2R	| NAVER 	| Competition  	| 9th 	|
 |  7 	| 2021.03 ~ 2021.06 	| [알.쓸.선.잡 (V.O.T.E)](https://github.com/cow-coding/V.O.T.E)	| Inha Univ - DataBase class 	| School Project  	| N/A 	|
-|  8 	| 2021.09 ~ 2021.11 	| Covid-Tourist Prediction	| InBig Project 	| Project  	| N/A 	|
+|  8 	| 2021.09 ~ 2021.11 	| [Covid-Tourist Prediction](https://github.com/cow-coding/COVID-Tourist)	| InBig Project 	| Project  	| N/A 	|
