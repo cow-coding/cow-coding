@@ -2,8 +2,6 @@
 
 [![cow-coding's github stats](https://github-readme-stats.vercel.app/api?username=cow-coding)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cow-coding&exclude_repo=cow-coding.github.io&hide=Jupyter%20Notebook&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kbp0237)](https://solved.ac/kbp0237)
-
 ## Profile
 ### Education
 - Inha Univ Undergraduated
