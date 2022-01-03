@@ -33,8 +33,8 @@
 |  2 	| 2021.01 ~ 2021.01 	| [여기붙어(ComeHere)](https://github.com/cow-coding/ComeHere.git) 	| Inha University 	| Project  	| -  	|
 |  3 	| 2021.01 ~ 2021.02 	| BoostCourse Supporters 3rd 	| NAVER connect 	| Suppoters  	| N/A  	|
 |  4 	| 2021.02 ~ 2021.02 	| [InhaCabinet](https://github.com/cow-coding/Cabinet-Project)	| - 	| Project  	| N/A  	|
-|  5 	| 2021.05 ~ 2021.06 	| [CLOVA AI RUSH](https://campaign.naver.com/clova_airush/) - 1R	| NAVER 	| Competition  	| 13rd  	|
-|  6 	| 2021.06 ~ 2021.07 	| [CLOVA AI RUSH](https://campaign.naver.com/clova_airush/) - 2R	| NAVER 	| Competition  	| 9th 	|
+|  5 	| 2021.05 ~ 2021.06 	| [CLOVA AI RUSH 2021](https://campaign.naver.com/clova_airush/) - 1R	| NAVER 	| Competition  	| 13rd  	|
+|  6 	| 2021.06 ~ 2021.07 	| [CLOVA AI RUSH 2021](https://campaign.naver.com/clova_airush/) - 2R	| NAVER 	| Competition  	| 9th 	|
 |  7 	| 2021.03 ~ 2021.06 	| [알.쓸.선.잡 (V.O.T.E)](https://github.com/cow-coding/V.O.T.E)	| Inha Univ - DataBase class 	| School Project  	| N/A 	|
 |  8 	| 2021.09 ~ 2021.11 	| [Covid-Tourist Prediction](https://github.com/cow-coding/COVID-Tourist)	| InBig Project 	| Project  	| N/A 	|
 |  9	| 2022.01 ~ 2022.06 	| Boost Camp AI Tech 3rd	| NAVER 	| Project / Tech Camp  	| -ing 	|
