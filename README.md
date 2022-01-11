@@ -33,9 +33,9 @@
 <br>
 
 ### Education
-- Inha Univ Undergraduated
-  - Inha Univ. Computer Science Engineering (2019 ~ )  
-  - Inha Univ. Information Analysis (Interdisciplinary major with Statistics) (2020 ~ )
+- Inha University
+  - Computer Science Engineering (2019 ~ )  
+  - Information Analysis (Interdisciplinary major with Statistics) (2020 ~ )
 <br>
 
 ### 🖋️ Interest
