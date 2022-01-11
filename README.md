@@ -32,7 +32,7 @@
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:pgb97@naver.com)](mailto:pgb97@naver.com)
 <br>
 
-### Education
+### 🏛 Education
 - Inha University
   - Computer Science Engineering (2019 ~ )  
   - Information Analysis (Interdisciplinary major with Statistics) (2020 ~ )
