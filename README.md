@@ -29,7 +29,7 @@
 ### About
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cow-coding.github.io/)](https://cow-coding.github.io/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbp0237@gmail.com)](mailto:kbp0237@gmail.com)&nbsp;
-[![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:pgb97@naver.com)](mailto:pgb97@naver.com)=
+[![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:pgb97@naver.com)](mailto:pgb97@naver.com)
 <br>
 
 ### Education
