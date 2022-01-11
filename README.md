@@ -1,3 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Park%20Ki-Bum&fontSize=90)
+
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcow-coding&count_bg=%232DD5B9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp; ![GitHub followers](https://img.shields.io/github/followers/cow-coding?style=social)
 
 [![cow-coding's github stats](https://github-readme-stats.vercel.app/api?username=cow-coding)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cow-coding&exclude_repo=cow-coding.github.io&hide=Jupyter%20Notebook&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
