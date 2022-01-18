@@ -61,4 +61,4 @@
 |  2 	| 2021.05 ~ 2021.06 	| [CLOVA AI RUSH 2021](https://campaign.naver.com/clova_airush/) - 1R	| NAVER 	| Competition  	| 13rd  	|
 |  3 	| 2021.06 ~ 2021.07 	| [CLOVA AI RUSH 2021](https://campaign.naver.com/clova_airush/) - 2R	| NAVER 	| Competition  	| 9th 	|
 |  4 	| 2021.07 ~ 2021.08 	| [월간 데이콘17:뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/overview/description)	| Dacon  	| Competition | Top 25% |
-|  5	| 2022.01 ~ 2022.06 	| Boost Camp AI Tech 3rd	| NAVER 	| Tech Camp  	| -ing 	|
+|  5	| 2022.01 ~ 2022.06 	| Boost Camp AI Tech 3rd	| NAVER 	| RecSys 	| -ing 	|
