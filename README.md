@@ -42,6 +42,7 @@
 - Recommender System
 - NLP
 - Search Engine
+- MLOps
 <br>
 
 ### Projects
