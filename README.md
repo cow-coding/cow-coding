@@ -22,7 +22,6 @@
   <br>
   <img src ="https://img.shields.io/badge/NodeJS-339933?&style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp;
   <img src ="https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
-  <img src ="https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp;
   <img src ="https://img.shields.io/badge/ELK-005571?&style=flat-square&logo=elastic&logoColor=white"/></a>&nbsp;
 </p>
 
