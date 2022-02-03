@@ -29,6 +29,9 @@
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:pgb97@naver.com)](mailto:pgb97@naver.com)
 <br>
 
+### CV
+[CV](https://github.com/cow-coding/CV/blob/main/CV.pdf)
+
 ### 🏛 Education
 - Inha University
   - Computer Science Engineering (2019 ~ )  
