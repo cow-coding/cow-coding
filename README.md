@@ -23,9 +23,12 @@
   <img src ="https://img.shields.io/badge/ELK-005571?&style=flat-square&logo=elastic&logoColor=white"/></a>&nbsp;
 </p>
 
-### About
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cow-coding.github.io/)](https://cow-coding.github.io/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbp0237@gmail.com)](mailto:kbp0237@gmail.com)&nbsp;
-[![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:pgb97@naver.com)](mailto:pgb97@naver.com)&nbsp;
-[![CV Badge](https://img.shields.io/badge/CV-02458D?style=flat-square&logo=apple&logoColor=white&link=https://github.com/cow-coding/CV/blob/main/CV.pdf)](https://github.com/cow-coding/CV/blob/main/CV.pdf)
 <br>
+
+<h3 align="center"> About </h3>
+<p align="center">
+  <a href="https://cow-coding.github.io/"><img src ="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/></a>&nbsp;
+  <a href="mailto:kbp0237@gmail.com"><img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:pgb97@naver.com"><img src ="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/cow-coding/CV/blob/main/CV.pdf"><img src ="https://img.shields.io/badge/CV-02458D?style=flat-square&logo=apple&logoColor=white"/></a>&nbsp;
+</p>
