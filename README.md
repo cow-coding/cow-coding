@@ -35,6 +35,6 @@
 
 <h3 align="center"> Now I am studying... </h3>
 <p align="center">
-  <a href="https://cow-coding.github.io/categories/naver-boostcamp-ai-tech/">Naver BoostCamp AI Tech 3rd : RecSys</a>
+  <a href="https://cow-coding.github.io/categories/naver-boostcamp-ai-tech/">Naver BoostCamp AI Tech 3rd : RecSys</a>&nbsp;
   <a href="https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?">Coursera : Machine Learning Engineering for Production(MLOps)</a>
 </p>
