@@ -32,3 +32,9 @@
   <a href="mailto:pgb97@naver.com"><img src ="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/cow-coding/CV/blob/main/CV.pdf"><img src ="https://img.shields.io/badge/CV-02458D?style=flat-square&logo=apple&logoColor=white"/></a>&nbsp;
 </p>
+
+<h3 align="center"> Now I am studying... </h3>
+<p align="center">
+  <a href="https://cow-coding.github.io/categories/naver-boostcamp-ai-tech/">Naver BoostCamp AI Tech 3rd : RecSys</a>
+  <a href="https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?">Coursera : Machine Learning Engineering for Production(MLOps)</a>
+</p>
