@@ -27,7 +27,7 @@
   <a href="https://cow-coding.github.io/"><img src ="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/></a>&nbsp;
   <a href="mailto:kbp0237@gmail.com"><img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
   <a href="mailto:pgb97@naver.com"><img src ="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/cow-coding/CV/blob/main/CV.pdf"><img src ="https://img.shields.io/badge/CV-02458D?style=flat-square&logo=apple&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/cow-coding/CV/blob/main/CV(kor).pdf"><img src ="https://img.shields.io/badge/CV-02458D?style=flat-square&logo=apple&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/kbp0237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 </p>
 
