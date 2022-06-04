@@ -8,12 +8,12 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src ="https://img.shields.io/badge/C++-00897B?&style=flat-square&logo=c%2B%2B&logoColor=white"/>&nbsp;
-  <img src ="https://img.shields.io/badge/Go-00ADD8?&style=flat-square&logo=Go&logoColor=white"/>&nbsp;
-  <img src ="https://img.shields.io/badge/Linux-FCC624?&style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
-  <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;
+  <img src ="https://img.shields.io/badge/Go-00ADD8?&style=flat-square&logo=Go&logoColor=white"/>&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;
+  <img src ="https://img.shields.io/badge/Linux-FCC624?&style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
   <br>
   <img src ="https://img.shields.io/badge/NodeJS-339933?&style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
