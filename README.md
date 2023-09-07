@@ -33,7 +33,10 @@
 
 <h3 align="center"> I am working at kakao </h3>
 
+<!--
 <h3 align="center"> Now I am studying... </h3>
 <p align="center">
   <a href="https://github.com/cow-coding/Coursera-MLOps-Specialization">Coursera : Machine Learning Engineering for Production(MLOps)</a>
 </p>
+-->
+
