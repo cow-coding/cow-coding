@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/kbp0237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;<br>
 </p>
 
-<h3 align="center"> I am working at kakao </h3>
+<h3 align="center"> Data Enigneer at kakao </h3>
 
 <!--
 <h3 align="center"> Now I am studying... </h3>
