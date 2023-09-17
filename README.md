@@ -11,11 +11,10 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/Go-00ADD8?&style=flat-square&logo=Go&logoColor=white"/>&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;
+<!--   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>&nbsp; -->
+<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp; -->
+<!--   <img src ="https://img.shields.io/badge/NodeJS-339933?&style=flat-square&logo=node.js&logoColor=white"/>&nbsp; -->
   <img src ="https://img.shields.io/badge/Linux-FCC624?&style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
-  <br>
-  <img src ="https://img.shields.io/badge/NodeJS-339933?&style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/Docker-2496ED?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;
 </p>
@@ -27,7 +26,7 @@
   <a href="https://cow-coding.github.io/"><img src ="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/></a>&nbsp;
   <a href="mailto:kbp0237@gmail.com"><img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
   <a href="mailto:pgb97@naver.com"><img src ="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/cow-coding/CV/blob/main/CV(kor).pdf"><img src ="https://img.shields.io/badge/CV-02458D?style=flat-square&logo=apple&logoColor=white"/></a>&nbsp;
+<!--   <a href="https://github.com/cow-coding/CV/blob/main/CV(kor).pdf"><img src ="https://img.shields.io/badge/CV-02458D?style=flat-square&logo=apple&logoColor=white"/></a>&nbsp; -->
   <a href="https://www.linkedin.com/in/kbp0237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;<br>
 </p>
 
